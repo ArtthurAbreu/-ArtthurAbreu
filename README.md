@@ -1,4 +1,4 @@
-## Olá, Meu nome é Arthur Abreu e eu sou estudante de TI pela Universidade Federal Rural do Semi-Árido.
+## Olá, Meu nome é Arthur Abreu 
 
  <div align="center">
   <a href="https://github.com/ArtthurAbreu">
